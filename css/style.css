@@ -753,16 +753,16 @@ h6.w3l-style {
     -moz-border-radius:50%;
 }
 .agileits-services-grids:nth-child(1) .wthree-ser i {
-    color: #ff4f81;
-    border: 1px solid #ff4f81;
+    color: #4fd0ff;
+    border: 1px solid #4fd0ff;
 }
 .agileits-services-grids:nth-child(2) .wthree-ser i {
     color: #ffc168;
     border: 1px solid #ffc168;
 }
 .agileits-services-grids:nth-child(3) .wthree-ser i{
-    color: #0079c1;
-    border: 1px solid #0079c1;
+    color: #48a000;
+    border: 1px solid #48a000;
 }
 .agileits-services-grids p {
     margin-top: 30px;
@@ -821,16 +821,16 @@ a.w3-buttons {
     margin-top:40px;
 }
 .agileits-services-row-2 .agileits-services-grids:nth-child(1) .wthree-ser i {
-    color: #0079c1;
-    border: 1px solid #0079c1;
+    color: #bd0000;
+    border: 1px solid #bd0000;
 }
 .agileits-services-row-2 .agileits-services-grids:nth-child(2) .wthree-ser i {
-    color: #ff4f81;
-    border: 1px solid #ff4f81;
+    color: #802900;
+    border: 1px solid #802900;
 }
 .agileits-services-row-2 .agileits-services-grids:nth-child(3) .wthree-ser i{
-    color: #ffc168;
-    border: 1px solid #ffc168;
+    color: #fcd703;
+    border: 1px solid #fcd703;
 }
 .agileits-services-row-2 .agileits-services-grids:nth-child(1) a.w3-buttons {
     background:#0079c1;
